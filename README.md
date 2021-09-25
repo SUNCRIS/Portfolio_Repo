@@ -1,6 +1,6 @@
-# Portfolio_Repo
-My Portfolio repository.
+# Portfolio
+This repository contains the source code from my projects as portfolio.
 
 # License
 
-Contents of this site are © Copyright 2017 Alex Lende. All rights reserved.
+Contents of this site are ©Copyright 2021 Cristian Diaz Caballero. All rights reserved.
