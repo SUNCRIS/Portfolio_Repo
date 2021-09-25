@@ -2,4 +2,5 @@
 My Portfolio repository.
 
 # License
-All rights reserved.
+
+Contents of this site are © Copyright 2017 Alex Lende. All rights reserved.
