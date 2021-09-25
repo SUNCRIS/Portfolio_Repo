@@ -1,5 +1,5 @@
 # Portfolio_Repo
 My Portfolio repository.
 
-License
-_________________________________________________________________
+# License
+All rights reserved.
